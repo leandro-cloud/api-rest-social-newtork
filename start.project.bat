@@ -1,2 +1,2 @@
-start cmd.exe /k "cd /d C:\Program Files\MongoDB\Server\7.0\bin && mongod.exe --dbpath C:\Users\everp\OneDrive\Desktop\bootcamp\BD mongo"
+start cmd.exe /k "mongod"
 start cmd.exe /k "cd /d C:\Users\everp\OneDrive\Desktop\bootcamp\api-rest-social-network && npm start"
